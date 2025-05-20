@@ -1,0 +1,1 @@
+# 10.-Beginner-More-problems-on-Loops-Patterns
